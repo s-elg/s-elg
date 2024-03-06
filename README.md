@@ -2,7 +2,7 @@
 
 <h2>about me:</h2>
 🔭 this is sumeyye elgin! <br>
-🌱 i’m a computer engineering student from turkey who developing herself these days!<br>
+🌱 i’m a computer engineering student from türkiye who developing herself these days!<br>
 😄 i’m currently learning git and github.<br>
 <h2>the languages that i have learned:</h2>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" /></a>
