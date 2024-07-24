@@ -5,7 +5,7 @@
 🌱 i’m a computer engineering student from türkiye who developing herself these days!<br>
 😄 i’m currently learning mobile development.<br>
 <h2>the languages that i have learned:</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,java" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,java,js,react" /></a>
 <h2>how you can reach me:</h2>
  <div class="social_media">
  <a href="https://www.linkedin.com/in/s%C3%BCmeyye-elgin-391060254/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp
