@@ -12,5 +12,5 @@
  <a href="http://gitlab.koddeposu.gov.tr/sumeyyelgin" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab"></a>&nbsp
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=s-elg&theme=vue&show_icons=true&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-elg&theme=vue&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=s-elg&theme=buefy&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-elg&theme=buefy&hide_border=true"/>
