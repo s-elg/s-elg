@@ -2,8 +2,8 @@
 
 ## about me:
 🔭 this is sumeyye elgin! <br>
-🌱 i’m a computer engineering student from türkiye who developing herself these days!<br>
-😄 i’m currently learning c#.<br>
+🌱 i’m a computer engineering student from Türkiye, currently working on improving myself!<br>
+😄 i’m building projects using .NET.<br>
 <h2>the languages that i have learned:</h2>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,java,js,react,cs,dotnet,py,vscode" /></a>
 <h2>how you can reach me:</h2>
