@@ -11,4 +11,4 @@
  <a href="https://www.linkedin.com/in/s%C3%BCmeyye-elgin-391060254/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=s-elg&theme=buefy&show_icons=true&hide_border=true&count_private=true"/>
+
