@@ -1,10 +1,10 @@
 # hi there, i'm sumeyye elgin! 👋
 
-**Computer Engineer | Backend Developer (.NET Core & C#)**
+**computer engineer | backend developer (.NET Core & C#)**
 
 ## about me:
-🌱 I am a backend-focused developer passionate about building scalable, high-performance systems and clean architectures. Grounded in SOLID principles, I enjoy taking ownership of the development lifecycle and solving complex challenges.<br>
-💻 Currently executing a rigorous **100-Day Backend Engineering Challenge** to deepen my knowledge in Clean Architecture, automated testing, and scalable deployments.<br>
+🌱 i am a backend-focused developer passionate about building scalable, high-performance systems and clean architectures. grounded in SOLID principles, i enjoy taking ownership of the development lifecycle and solving complex challenges.<br>
+💻 currently executing a rigorous **100-Day Backend Engineering Challenge** to deepen my knowledge in clean Architecture, automated testing, and scalable deployments.<br>
 😄 i’m building production-ready APIs using .NET.
 
 ## ⚙️ tech stack & tools:
