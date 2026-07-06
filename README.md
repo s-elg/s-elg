@@ -8,10 +8,7 @@
 😄 i’m building production-ready APIs using .NET.
 
 ## ⚙️ tech stack & tools:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,java,js,react,html,css,vscode,visualstudio,github" /></a>
-
-* **Backend & Architecture:** C#, .NET Core, ASP.NET Web API, RESTful APIs, JWT, SOLID
-* **Databases:** MS SQL Server, MySQL
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,java,js,react,html,css,vscode,visualstudio,github,mssql" /></a>
 
 ## how to reach me:
 <div class="social_media">
