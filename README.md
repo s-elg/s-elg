@@ -4,7 +4,7 @@
 
 ## about me:
 🌱 i am a backend-focused developer passionate about building scalable, high-performance systems and clean architectures. grounded in SOLID principles, i enjoy taking ownership of the development lifecycle and solving complex challenges.<br>
-💻 currently executing a rigorous **100-Day Backend Engineering Challenge** to deepen my knowledge in clean Architecture, automated testing, and scalable deployments.<br>
+💻 currently executing a rigorous **100-Day Backend Engineering Challenge** to deepen my knowledge in clean architecture, automated testing, and scalable deployments.<br>
 😄 i’m building production-ready APIs using .NET.
 
 ## ⚙️ tech stack & tools:
